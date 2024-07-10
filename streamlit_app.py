@@ -65,6 +65,6 @@ if ingredients_list:
         
         st.success('Your Smoothie is ordered!', icon="✅")
 
-search_on=pd_df.loc[pd.df['FRUIT_NAME'] == fruit_chosen, 'SEARCH_ON'].iloc[0]
+
 
 
